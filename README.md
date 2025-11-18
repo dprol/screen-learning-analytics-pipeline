@@ -176,7 +176,7 @@ Contributions are welcome! Please open an issue or submit a pull request.
 
 ## Contact
 
-- Daniel Prol - dprol@[institution].edu
+- Daniel Prol - dprol@uh.edu
 - Project: https://github.com/dprol/screen-learning-analytics-pipeline
 
 ## Acknowledgments
