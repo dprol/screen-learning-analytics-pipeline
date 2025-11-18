@@ -166,19 +166,6 @@ The pipeline was validated on:
 - Expanded behavior code coverage with active learning
 - Multi-language support
 
-## Citation
-
-If you use this pipeline in your research, please cite:
-
-```bibtex
-@inproceedings{proleon2025screen,
-  title={Screen Learning Analytics Pipeline: Automated Analysis of Educational Screen Recordings},
-  author={Prol, Daniel and [Co-author Name]},
-  booktitle={[Conference Name]},
-  year={2025}
-}
-```
-
 ## License
 
 MIT License - see LICENSE file for details
